@@ -24,6 +24,7 @@ Todo:
   And much more.....</string>
 	<key>fileTypes</key>
 	<array>
+		<string>p4r</string>
 		<string>p4</string>
 	</array>
 	<key>name</key>
